@@ -2,7 +2,7 @@
 This project contains datasets for Cross Site Scripting, SQL, and LDAP injections.
 The project contains the Matlab code for creating SVM, K-NN, Random Forest, and Neural Networks classifiers to detect Web applications attacks.
 
-If f you would like to cite thr datasets or code, please use the following references:
+If f you would like to cite the datasets or code, please use the following references:
 
 1. Mereani, F. A. and Howe, J. M. (2018). Detecting Cross-Site Scripting Attacks
 Using Machine Learning. In Advanced Machine Learning Technologies
