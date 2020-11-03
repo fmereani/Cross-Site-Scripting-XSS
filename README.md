@@ -1,5 +1,5 @@
 # Cross-Site-Scripting
-This project contains datasets for Cross Site Scripting(XSS), SQL, and LDAP injections.
+This project contains dataset for Cross Site Scripting(XSS).
 The project contains the Matlab code for creating SVM, K-NN, Random Forest, and Neural Networks classifiers to detect Web applications attacks.
 
 ## Citations
